@@ -134,11 +134,6 @@ hash = "bdf09ff8a5f8f1acbe5bff48e7cfe96f47f1643b9761abb3fce9f07348a7eb0c"
 metafile = true
 
 [[files]]
-file = "tacz.pw.toml"
-hash = "d4cf2eddacd0340bf2444baf34f84e2adf8f508163e2ec14a965ae3c9c6f1637"
-metafile = true
-
-[[files]]
 file = "tacz/CS2 Knifes Pack v1.0.1.zip"
 hash = "5cab4af53cb80fb016ef14fbb1bc27cd21d3b2d234415301cf4a9a4238a10c10"
 
