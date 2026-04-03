@@ -1,0 +1,13 @@
+name = "LamTaczServer"
+author = "LamPT"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e9045d0b0472d4e223d7bb1fdfa4404f99331237d9455c4604160a8cc924dc96"
+
+[versions]
+forge = "47.4.16"
+minecraft = "1.20.1"

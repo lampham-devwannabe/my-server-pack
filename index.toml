@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "tacz.pw.toml"
+hash = "d4cf2eddacd0340bf2444baf34f84e2adf8f508163e2ec14a965ae3c9c6f1637"
+metafile = true
