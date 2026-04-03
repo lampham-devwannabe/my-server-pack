@@ -1,6 +1,173 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
+metafile = true
+
+[[files]]
+file = "mods/born-in-chaos.pw.toml"
+hash = "fbe61f16eb71deeb9ecb4c9af7c50de97b56a2d347ee69d65810f8d8678c275a"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+metafile = true
+
+[[files]]
+file = "mods/deltaforce-melee-pack.pw.toml"
+hash = "7eccf4cd1eaff3f5c13d3337d519aa23a5f884b99ffb14ae9fa35a63fb3754c4"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-ai.pw.toml"
+hash = "4528e039002e5f74cd46687ed38376cd2958c5f8af3b4d736733ea76b62c35a6"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "9638ff768bb45f6aece95d08049e30385369efecc8f240f5bce012f5ee8f321a"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "f20ab11fec09413c774196d34f4fe06bd35584ff46902e432dad1180b20a7667"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5934060aed168eb17658f596971f92f8ebf89f8f5e750a479277ca6801631fc6"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/geckolib-forge-1.20.1-4.8.3.jar"
+hash = "477d5d014d6641522cd0deb93c66aefff755760259970c4c255fadb3d88ff702"
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "30fe947e95d8da536ea4ad3c959f07cc504dd739ea530f7f4187ac08f4afcbc0"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "e35b44f12d02a3bb79a520d5a7436a7ead8a8adf32ecbe7b0bcac542d4047943"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.pw.toml"
+hash = "2c0c3dd223928f22a062c15773d134a63c0e94cdf4adfadbbc8487d9d3d179da"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "29b62d42548542296d9932bcbb8a93ffba0b75b7cc859a67e596aeb1e048ace2"
+metafile = true
+
+[[files]]
+file = "mods/mob-sunscreen.pw.toml"
+hash = "2c6fd5ca96e737ef3d2e848ed1df62f5d4274d9c829f1f3f8e45973816a69088"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "17523abe76f282db11e95a033e504c1da3f82ac23a42e169d6b1e4d59b6a18d6"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
+file = "mods/simple-login.pw.toml"
+hash = "88bdb37465eaaeea366e49cb9cee56a4b7165e7dba43c00f7825b38d2beafcdb"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
+metafile = true
+
+[[files]]
+file = "mods/tacz-lesraisins-tactical-equipements.pw.toml"
+hash = "d97655330510c21898fe03027bd9841e34af2c6bc89372f22a6b23e71068b5ab"
+metafile = true
+
+[[files]]
+file = "mods/tacz-weapons-and-tactics-mod.pw.toml"
+hash = "568f5dc7b5dfda5ed336745e6242a62c4798d769ca74f267ed76a1cde76926b6"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "bdf09ff8a5f8f1acbe5bff48e7cfe96f47f1643b9761abb3fce9f07348a7eb0c"
+metafile = true
+
+[[files]]
 file = "tacz.pw.toml"
 hash = "d4cf2eddacd0340bf2444baf34f84e2adf8f508163e2ec14a965ae3c9c6f1637"
 metafile = true
+
+[[files]]
+file = "tacz/CS2 Knifes Pack v1.0.1.zip"
+hash = "5cab4af53cb80fb016ef14fbb1bc27cd21d3b2d234415301cf4a9a4238a10c10"
+
+[[files]]
+file = "tacz/Delta Force-Firepower Projection-v2.0.zip"
+hash = "30e3bd893cc62fdd478467a1569e0be032362fde80dcb6e0711a853728a60e3f"
+
+[[files]]
+file = "tacz/Valorant_gunpack_v0.1.2_hotfix_1.zip"
+hash = "e20d41122d864a7cac820050a84fb08c560bc184eefa7a128d644dee5eea5d59"
+
+[[files]]
+file = "tacz/[TaCZ] Craft Cry 5 v1.0.4.zip"
+hash = "60a7f76b043ef655c3c78cfafa056987bb4e53aa59646ba933f7ea8965cc9958"
+
+[[files]]
+file = "tacz/[Tacz1.1.5+] EOS_Dawn Goddess Lab ver1.1.1-hotfix1.zip"
+hash = "0b490c48b3ce16c2dc15f8822fd488901bd04f46c7d647d91cffca758ec71bb3"
+
+[[files]]
+file = "tacz/[深岩银河]Deep Rock Galactic GunPack1.2.6.1.zip"
+hash = "55f11b63e3e3d52aaf80b56607623b7ff0f693221b6c8d583cc888fc202dd488"
+
+[[files]]
+file = "tacz/bluearchive0.0.31alpha.zip"
+hash = "1935a3520781549cc4edb950c3b150572c3d42f4d1986967ef90edca67a34911"
