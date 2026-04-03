@@ -56,10 +56,6 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-forge-1.20.1-4.8.3.jar"
-hash = "477d5d014d6641522cd0deb93c66aefff755760259970c4c255fadb3d88ff702"
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "30fe947e95d8da536ea4ad3c959f07cc504dd739ea530f7f4187ac08f4afcbc0"
 metafile = true
