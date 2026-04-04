@@ -99,9 +99,21 @@ hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
+file = "mods/polymorph-forge-0.49.10+1.20.1.jar"
+hash = "cbe63a0a1cb6ae8dbc0e29bb96d149a137cd4e714b295fa49d230994091d157f"
+
+[[files]]
 file = "mods/simple-login.pw.toml"
 hash = "88bdb37465eaaeea366e49cb9cee56a4b7165e7dba43c00f7825b38d2beafcdb"
 metafile = true
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1.20.1-3.24.31.1628.jar"
+hash = "7953b1d900618765826baf568f5b29f442e4496a37661b2001d1d0789097113b"
+
+[[files]]
+file = "mods/sophisticatedcore-1.20.1-1.3.15.1606.jar"
+hash = "1977a02027ce56d82f0944fd5979af6549f3e03e2cb164710e514a54431ad8b8"
 
 [[files]]
 file = "mods/starlight-forge.pw.toml"
